@@ -1,3 +1,5 @@
+clear 
+clc
 enfb1=5.00;
 enfc1=10;
 
