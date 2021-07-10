@@ -8,4 +8,4 @@ y more of an effect based on specifics.
 7. Pg.31 how these plots?
 8. Ay response time long for high front compliance vehicle?
 9. Why sideslip response to front cornering compliance?
-10. 
+10.3D kinematics - useful?

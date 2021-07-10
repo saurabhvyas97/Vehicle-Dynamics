@@ -14,4 +14,7 @@ The **Steering and suspension** folder will contain files related to the kinemat
 
 The **Testing** folder will contain files related to test data processing of tests of real vehicles.
 
-The **full vehicle dynamics** folder will contain files related to understanding performce of the vehicle via simulations. It is here that simulations of ISO handling procedures, and (later) lap time simulations will be located.
+The **full vehicle dynamics** folder will contain files related to understanding performance of the vehicle via simulations. It is here that simulations of ISO handling procedures, and (later) lap time simulations will be located.
+
+//  added in feature2
+
