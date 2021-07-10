@@ -1,5 +1,4 @@
 clear all
-close all
 clc
 
 %% Inputs for the simulation and unit conversion:
